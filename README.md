@@ -8,7 +8,7 @@
 <div align="center">
   <hr>
   <a href="https://github.com/GabrielTernesSan">
-    <img height="150em" width="550em" src="https://github-readme-stats.vercel.app/api?username=GabrielTernesSan&show_icons=true&theme=nord&hide=issues,prs&include_all_commits=true&count_private=true&"/>
+    <img height="150em" width="450em" src="https://github-readme-stats.vercel.app/api?username=GabrielTernesSan&show_icons=true&theme=nord&hide=issues,prs&include_all_commits=true&count_private=true&"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTernesSan&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block"><br>
@@ -30,7 +30,11 @@
   
   <div> 
   <a href="https://www.instagram.com/gabrielsternes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <br/>
+    <br/>
   <a href = "mailto:gabriel.ternes@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <br/>
+    <br/>
   <a href="https://www.linkedin.com/in/gabriel-ternes-1b98021ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/GabrielTernesSan/GabrielTernesSan/blob/output/github-contribution-grid-snake.svg)
