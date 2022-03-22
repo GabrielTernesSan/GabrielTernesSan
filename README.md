@@ -33,37 +33,27 @@ Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de P
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ## 📚 Estou estudando
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
 ## 🏆 Cursos e certificados
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-- GO: INICIANDO COM A LINGUAGEM DO GOOGLE - Nov, 2021;
-- GO: ORIENTAÇÃO A OBJETOS - Nov, 2021;
-- GO: FUNDAMENTOS DE UMA APLICAÇÃO WEB - Nov, 2021;
+- Go: Iniciando Com A Linguagem Do Google - Nov, 2021;
+- Go: Orientação A Objetos - Nov, 2021;
+- Go: Fundamentos De Uma Aplicação Web - Nov, 2021;
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-- JAVA COLLECTIONS: DOMINANDO LISTAS, SETS E MAPAS - Jan, 2022;
-- JAVA E JAVA.IO: STREAMS, READER E WRITERS - Jan, 2022;
-- JAVA E JAVA.LANG: PROGRAME COM A CLASSE OBJECT E STRING - Jan, 2022;
-- JAVA E JAVA.UTIL: COLEÇÕES, WRAPPERS E LAMBDA EXPRESSIONS - Jan, 2022;
-- JAVA EXCEÇÕES: APRENDA A CRIAR, LANÇAR E CONTROLAR EXCEÇÕES - Jan, 2022;
-- JAVA MODERNO: TIRE PROVEITO DOS NOVOS RECURSOS DO JAVA 8 - Jan, 2022;
-- JAVA POLIMORFISMO: ENTENDA HERANÇA E INTERFACES - Jan, 2022;
-- MAVEN: GERENCIAMENTO DE DEPENDÊNCIAS E BUILD DE APLICAÇÕES JAVA - Jan, 2022;
-- TDD E JAVA: TESTES AUTOMATIZADOS COM JUNIT - Jan, 2022;
-- MOCKS EM JAVA: CONHECENDO O MOCKITO - Jan, 2022;
+- Java Collections: Dominando Listas, Sets E Mapas - Jan, 2022;
+- Java e Java.io: Streams, Reader E Writers - Jan, 2022;
+- Java e Java.lang: Programe Com a Classe Object E String - Jan, 2022;
+- Java e Java.util: Coleções, Wrappers E Lambda Expressions - Jan, 2022;
+- Java Exceções: Aprenda a Criar, Lançar E Controlar Exceções - Jan, 2022;
+- Java Moderno: Tire Proveito Dos Novos Recursos Do Java 8 - Jan, 2022;
+- Java Polimorfismo: Entenda Herança E Interfaces - Jan, 2022;
+- Maven: Gerenciamento De Dependências E Build De Aplicações Java - Jan, 2022;
+- Tdd E Java: Testes Automatizados Com Junit - Jan, 2022;
+- Mocks Em Java: Conhecendo O Mockito - Jan, 2022;
 
 Você pode ver todos os certificados [Aqui](https://cursos.alura.com.br/user/santos-tgabriel)
-
-<hr>
-
- <a href="https://github.com/GabrielTernesSan">
-    <img height="220em" width="450em" src="https://github-readme-stats.vercel.app/api?username=GabrielTernesSan&show_icons=true&theme=nord&&include_all_commits=true&count_private=true&"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTernesSan&layout=compact&langs_count=7&theme=nord"/>
- 
-  ![Snake animation](https://github.com/GabrielTernesSan/GabrielTernesSan/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
