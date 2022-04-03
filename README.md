@@ -10,6 +10,10 @@
   <a target='_blank' href="https://gabrielternes.vercel.app/">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
     </a>
+    </a>
+  <a target='_blank' href="https://www.hackerrank.com/santos_tgabriel">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
 </div>
 
 <hr>
