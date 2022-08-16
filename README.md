@@ -20,7 +20,7 @@
 
 ### Olá forasteiro 🤠
 
-Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de Porto Alegre RS, sou técnico em eletrônica e atualmente estou no 2° semestre de Análise e Desenvolvimento de Sistemas. No meu tempo livre gosto de participar de algumas lives de Valorant e LOL, ler livros, jogar e fazer alguns cursos.
+Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de Porto Alegre RS, sou técnico em eletrônica e atualmente estou no 3° semestre de Análise e Desenvolvimento de Sistemas. No meu tempo livre gosto de participar de algumas lives de Valorant e LOL, ler livros, jogar e fazer alguns cursos.
 
 ## 🖖🏽 Informações
 
