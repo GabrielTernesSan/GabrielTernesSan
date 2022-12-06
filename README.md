@@ -22,7 +22,7 @@ Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de P
 * **Sobrenome**: Santos
 * **Idade**: 22
 * **Moro em**: Canoas, Brasil
-* **Tecnologias e linguagens**: Java - GO - Arduino - MySQL - PostgreSQL
+* **Tecnologias e linguagens**: C# - Java - GO - Arduino - MySQL - PostgreSQL
 * **Dev**: Back-end Developer / DevOps
 * **Ensino Médio / Técnico**: Completo | Instituto Federal de Ciência e Tecnologia - Técnico em Eletrônica
 * **Universidade**: Em curso | Análise e Desenvolvimento de Sistemas - Unilasalle
