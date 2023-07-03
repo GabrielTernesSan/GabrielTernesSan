@@ -22,11 +22,13 @@ Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de P
 * **Sobrenome**: Santos
 * **Idade**: 22
 * **Moro em**: Canoas, Brasil
-* **Tecnologias e linguagens**: C# - Java - GO - Arduino - MySQL - PostgreSQL
 * **Dev**: Back-end Developer / DevOps
 * **Ensino Médio / Técnico**: Completo | Instituto Federal de Ciência e Tecnologia - Técnico em Eletrônica
 * **Universidade**: Em curso | Análise e Desenvolvimento de Sistemas - Unilasalle
+* **Tecnologias e linguagens**:<br>
+   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,postman,git,java&theme=light)](https://skillicons.dev)
 
-## 💻 Linguagens e Tecnologias
+  Estou sempre procurando aprender e me manter atualizado, essas são as tecnologias que estou estudando no momento: <br>
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,react,prisma,js,ts,nestjs&theme=light)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTernesSan&layout=compact&theme=radical)](https://github.com/GabrielTernesSan/github-readme-stats)
