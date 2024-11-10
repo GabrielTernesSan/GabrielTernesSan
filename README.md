@@ -20,12 +20,12 @@ Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de P
 
 * **Nome**: Gabriel Ternes
 * **Sobrenome**: Santos
-* **Idade**: 23
+* **Idade**: 24
 * **Moro em**: Canoas, Brasil
 * **Dev**: Back-end Developer / DevOps
 * **Ensino Médio / Técnico**: Completo | Instituto Federal de Ciência e Tecnologia - Técnico em Eletrônica
 * **Universidade**: Completo | Análise e Desenvolvimento de Sistemas - Unilasalle
 * **Tecnologias e linguagens**:<br>
-   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,postman,git,java&theme=light)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,postman,git,js,react)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTernesSan&layout=compact&theme=radical)](https://github.com/GabrielTernesSan/github-readme-stats)
