@@ -1,5 +1,3 @@
-<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
-
 <div align="center">
     <a target='_blank' href="https://www.linkedin.com/in/gabrielternes/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,7 +23,22 @@ Meu nome é Gabriel Ternes, atualmente moro em Canoas, cidade metropolitana de P
 * **Dev**: Back-end Developer / DevOps
 * **Ensino Médio / Técnico**: Completo | Instituto Federal de Ciência e Tecnologia - Técnico em Eletrônica
 * **Universidade**: Completo | Análise e Desenvolvimento de Sistemas - Unilasalle
-* **Tecnologias e linguagens**:<br>
-   [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,postman,git,js,react)](https://skillicons.dev)
+   
+
+### 🤠 Howdy, stranger!
+My name is Gabriel Ternes. I currently live in Canoas, a metropolitan city near Porto Alegre, RS, Brazil. I'm a certified Electronics Technician and have a degree in Systems Analysis and Development. In my free time, I enjoy watching some Valorant and LoL streams, reading books, gaming, and taking online courses.
+
+## 🖖🏽 About me:
+
+* **Name**: Gabriel Ternes
+* **Last Name**: Santos
+* **Age**: 24
+* **Location**: Canoas, Brazil
+* **Role**: Back-end Developer / DevOps
+* **High School/Technical Education**: Completed | Federal Institute of Science and Technology - Electronics Technician
+* **University**: Completed | Systems Analysis and Development - Unilasalle
+
+## 🛠️ Technologies and Languages:<br>
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,azure,postman,git,js,react)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTernesSan&layout=compact&theme=radical)](https://github.com/GabrielTernesSan/github-readme-stats)
