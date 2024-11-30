@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     </a>
-  <a target='_blank' href="https://drive.google.com/file/d/1xLEQ9O1qIOewTvez7p58ZRabojEFeWGb/view?usp=sharing">
+  <a target='_blank' href="https://drive.google.com/file/d/1PzfEfFdvLMDqZk1PUti942Bl_ucvs0dE/view?usp=sharing">
         <img src="https://img.shields.io/badge/Curriculo-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
     </a>
 </div>
